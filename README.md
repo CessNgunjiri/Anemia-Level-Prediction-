@@ -1,13 +1,15 @@
 # Anemia-Level-Prediction
 
-ANEMIALEVEL PREDICTION IN CHILDREN.
+# ANEMIA LEVEL PREDICTION IN CHILDREN.
+
 anemic_child
 
-1.0 BUSINESS UNDERSTANDING
-Overview
+# 1.0 BUSINESS UNDERSTANDING
+#Overview
+
 Anemia is a major health issue among children aged 0-59 months in Nigeria, impairing growth, cognition, and immunity. It is driven by poor nutrition, frequent infections, and limited healthcare access, with socioeconomic factors like low income, limited education, and poor sanitation worsening its prevalence. Addressing anemia is vital for improving child health and supporting Nigeria's development.
 
-Problem Statement
+# Problem Statement
 Many children in Nigeria suffer from undetected and untreated anemia due to limited healthcare access, high diagnostic costs, and low public awareness. This project aims to develop a model that predicts anemia severity based on socioeconomic factors, enabling the identification of high-risk children and supporting targeted health interventions..
 
 Objectives
