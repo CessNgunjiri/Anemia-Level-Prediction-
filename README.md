@@ -2,8 +2,6 @@
 
 # ANEMIA LEVEL PREDICTION IN CHILDREN.
 
-anemic_child
-
 # 1.0 BUSINESS UNDERSTANDING
 # Overview
 
